@@ -51,6 +51,8 @@ Open Browser http://localhost:8080/myview
 
 ## Documentation
 
+Work in progress. See Example App so far.
+
 ## Projects
 
 ### Core Projects
