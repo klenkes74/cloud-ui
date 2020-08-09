@@ -13,18 +13,23 @@ It should be stateless, light weight and easy to integrate with quarkus, also bu
 
 ## Getting Started
 
+### Setup your project
+
 1. checkout the core projects and build them with mvn clean install
 1. start a new quarkus project on [code.quarkus.io](https://code.quarkus.io) 
 1. Add the cloud-ui-extension to your project 
 
-``
+~~~
       <dependency>
          <groupId>net.moewes</groupId>
          <artifactId>cloud-ui-quarkus-extension</artifactId>
          <version>0.1.0-SNAPSHOT</version>
       </dependency>
-``
-    
+~~~
+
+### Create your first view:
+
+
 
 ## Documentation
 
