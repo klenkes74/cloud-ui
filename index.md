@@ -13,6 +13,8 @@ It should be stateless, light weight and easy to integrate with quarkus, also bu
 
 ## Getting Started
 
+This is work in progress. See example.
+
 ### Setup your project
 
 1. checkout the core projects and build them with mvn clean install
