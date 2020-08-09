@@ -18,11 +18,11 @@ It should be stateless, light weight and easy to integrate with quarkus, also bu
 1. Add the cloud-ui-extension to your project 
 
 ``
-<dependency>
-      <groupId>net.moewes</groupId>
-      <artifactId>cloud-ui-quarkus-extension</artifactId>
-      <version>0.1.0-SNAPSHOT</version>
-    </dependency>
+      <dependency>
+         <groupId>net.moewes</groupId>
+         <artifactId>cloud-ui-quarkus-extension</artifactId>
+         <version>0.1.0-SNAPSHOT</version>
+      </dependency>
 ``
     
 
