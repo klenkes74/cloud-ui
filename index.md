@@ -29,6 +29,22 @@ It should be stateless, light weight and easy to integrate with quarkus, also bu
 
 ### Create your first view:
 
+~~~
+@CloudUiView("/myview")
+public class MyView extends Div {
+
+  public MyView() {
+
+    H1 title = new H1("MyView");
+    add(title);
+    
+  }
+}
+~~~~
+
+Start server with ``mvn compile quarkus:dev``
+
+Open Browser http://localhost:8080/myview
 
 
 ## Documentation
