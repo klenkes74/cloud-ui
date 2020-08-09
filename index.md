@@ -53,14 +53,14 @@ Open Browser http://localhost:8080/myview
 
 ### Core Projects
 
-* [CloudUi Quarkus Extension](https://github.com/moewes/cloud-ui-quarkus)
-* [CloudUi Core](https://github.com/moewes/cloud-ui-core)
-* [CloudUi Client](https://github.com/moewes/cloud-ui-client)
+* [CloudUi Quarkus Extension](https://github.com/moewes/cloud-ui-quarkus) ![Java CI with Maven](https://github.com/moewes/cloud-ui-quarkus/workflows/Java%20CI%20with%20Maven/badge.svg)
+* [CloudUi Core](https://github.com/moewes/cloud-ui-core) ![Java CI with Maven](https://github.com/moewes/cloud-ui-core/workflows/Java%20CI%20with%20Maven/badge.svg)
+* [CloudUi Client](https://github.com/moewes/cloud-ui-client) ![Java CI with Maven](https://github.com/moewes/cloud-ui-client/workflows/Java%20CI%20with%20Maven/badge.svg)
 
 ### Examples
-* [CloudUi Example App](https://github.com/moewes/cloud-ui-example)
+* [CloudUi Example App](https://github.com/moewes/cloud-ui-example) ![Java CI with Maven](https://github.com/moewes/cloud-ui-example/workflows/Java%20CI%20with%20Maven/badge.svg)
 
 ### Component Libraries
-* [CloudUi Ui5 Webjar](https://github.com/moewes/ui5-webjar)
+* [CloudUi Ui5 Webjar](https://github.com/moewes/ui5-webjar) ![Java CI with Maven](https://github.com/moewes/ui5-webjar/workflows/Java%20CI%20with%20Maven/badge.svg)
 
 
