@@ -1,6 +1,11 @@
-# Welcome to CloudUi
+---
+layout: page
+title: "Home"
+---
 
-## Idea
+
+
+### My Idea
 
 I like the idea of programming the frontend in java, like you can do with [vaadin flow](https://vaadin.com). Unfortunaly vaadin apps are not stateless. So they did not scale very well. Deep inside there is gwt also in flow. 
 
@@ -11,11 +16,11 @@ This is a first POC of my ideas:
 Build a cloud native ui framework for [quarkus](https://quarkus.io) but not limited to. Influenced by web components and the idea of ui mircoservices.
 It should be stateless, light weight and easy to integrate with quarkus, also build on vanilla browser technologies without GWT or Javascript frameworks. 
 
-## Getting Started
+### Get Started
 
 This is work in progress. See example.
 
-### Setup your project
+#### Setup your project
 
 1. checkout the core projects and build them with mvn clean install
 1. start a new quarkus project on [code.quarkus.io](https://code.quarkus.io) 
@@ -29,7 +34,7 @@ This is work in progress. See example.
       </dependency>
 ~~~
 
-### Create your first view:
+#### Create your first view:
 
 ~~~
 @CloudUiView("/myview")
@@ -44,27 +49,20 @@ public class MyView extends Div {
 }
 ~~~~
 
-Start server with ``mvn compile quarkus:dev``
+Start server with
+~~~
+ ``mvn compile quarkus:dev``
+~~~
 
-Open Browser http://localhost:8080/myview
+Open Browser [http://localhost:8080/myview](http://localhost:8080/myview)
 
 
 ## Documentation
 
 Work in progress. See Example App so far.
 
-## Projects
 
-### Core Projects
 
-* [CloudUi Quarkus Extension](https://github.com/moewes/cloud-ui-quarkus) 
-* [CloudUi Core](https://github.com/moewes/cloud-ui-core) 
-* [CloudUi Client](https://github.com/moewes/cloud-ui-client) 
 
-### Examples
-* [CloudUi Example App](https://github.com/moewes/cloud-ui-example) 
-
-### Component Libraries
-* [CloudUi Ui5 Webjar](https://github.com/moewes/ui5-webjar) 
 
 

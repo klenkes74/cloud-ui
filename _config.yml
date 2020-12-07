@@ -1,8 +1,16 @@
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
 title: CloudUi
 description: light weight, scalable, cloud native Ui 
 collections:
-  - core_projects
-  - examples
-  - component_libraries
-  - guides
+  core_projects:
+     output: true
+     permalinks: /projects/:path
+  examples:
+    output: true
+    permalinks: /projects/:path
+  component_libraries:
+    output: true
+    permalinks: /projects/:path
+  guides:
+    output: true
+    permalinks: /guides/:path
