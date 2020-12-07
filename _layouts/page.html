@@ -93,6 +93,12 @@
     <div class="row">
       <div class="col-md-4">
         <h3>Core Projects</h3>
+        
+        {% for staff_member in site.staff_members %}
+  <h2>{{ staff_member.name }} - {{ staff_member.position }}</h2>
+  <p>{{ staff_member.content | markdownify }}</p>
+{% endfor %}
+        
         <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
         <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
       </div>
