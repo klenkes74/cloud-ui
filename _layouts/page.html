@@ -94,8 +94,8 @@
       <div class="col-md-4">
         <h3>Core Projects</h3>
         
-        {% for staff_member in site.staff_members %}
-  <h2>{{ staff_member.name }} - {{ staff_member.position }}</h2>
+        {% for staff_member in site.core_project %}
+  <h2>{{ staff_member.title }} </h2>
   <p>{{ staff_member.content | markdownify }}</p>
 {% endfor %}
         
