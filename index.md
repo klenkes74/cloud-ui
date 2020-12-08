@@ -36,7 +36,6 @@ This is work in progress. See example.
 
 #### Create your first view:
 
-
 ~~~
 @CloudUiView("/myview")
 public class MyView extends Div {
@@ -49,7 +48,6 @@ public class MyView extends Div {
   }
 }
 ~~~
-
 
 Start server with
 ~~~

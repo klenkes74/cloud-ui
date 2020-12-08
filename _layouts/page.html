@@ -49,7 +49,7 @@
           <h4>Core Projects</h4>
           <nav>
             {% for project in site.core_projects %}
-            <li><a href="{{ site.baseurl }}/{{project.url}}">{{ project.title }}</a> </li>
+            <li><a href="{{ site.baseurl }}{{project.url}}">{{ project.title }}</a> </li>
             {% endfor %}
           </nav>
 
@@ -58,7 +58,7 @@
           <h4>Examples</h4>
           <nav>
             {% for project in site.examples %}
-            <li><a href="{{ site.baseurl }}/{{project.url}}">{{ project.title }}</a> </li>
+            <li><a href="{{ site.baseurl }}{{project.url}}">{{ project.title }}</a> </li>
             {% endfor %}
           </nav>
         </div>
@@ -66,7 +66,7 @@
           <h4>Component Libraries</h4>
           <nav>
             {% for project in site.component_libraries %}
-            <li><a href="{{ site.baseurl }}/{{project.url}}">{{ project.title }}</a> </li>
+            <li><a href="{{ site.baseurl }}{{project.url}}">{{ project.title }}</a> </li>
             {% endfor %}
           </nav>
         </div>
