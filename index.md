@@ -5,7 +5,7 @@ title: "Home"
 
 
 
-### My Idea
+### The Idea
 
 I like the idea of programming the frontend in java, like you can do with [vaadin flow](https://vaadin.com). Unfortunaly vaadin apps are not stateless. So they did not scale very well. Deep inside there is gwt also in flow. 
 
@@ -27,14 +27,15 @@ This is work in progress. See example.
 1. Add the cloud-ui-extension to your project 
 
 ~~~
-      <dependency>
-         <groupId>net.moewes</groupId>
-         <artifactId>cloud-ui-quarkus-extension</artifactId>
-         <version>0.1.0-SNAPSHOT</version>
-      </dependency>
+  <dependency>
+    <groupId>net.moewes</groupId>
+    <artifactId>cloud-ui-quarkus-extension</artifactId>
+    <version>0.1.0-SNAPSHOT</version>
+  </dependency>
 ~~~
 
 #### Create your first view:
+
 
 ~~~
 @CloudUiView("/myview")
@@ -47,11 +48,12 @@ public class MyView extends Div {
     
   }
 }
-~~~~
+~~~
+
 
 Start server with
 ~~~
- ``mvn compile quarkus:dev``
+ mvn compile quarkus:dev
 ~~~
 
 Open Browser [http://localhost:8080/myview](http://localhost:8080/myview)
