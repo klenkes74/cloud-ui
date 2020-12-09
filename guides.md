@@ -3,22 +3,16 @@ layout: page
 title: CloudUi Guides
 ---
 
-# Guides
+## Guides
 
 This is work in progress.
 
 {% for guide in site.guides %}
 
-<div>
-{{ guide.title }}
-Guide Place Holder
+#### {{ guide.title }}
 
-<a href="{{ guide.url | prepend: site.baseurl }}">
-  <h2>{{ guide.title }}</h2>
-</a>
+{{ guide.description }}
 
-<p class="post-excerpt">{{ guide.description | truncate: 160 }}</p>
-
-</div>
+[read more...]({{ guide.url }}) 
 
 {% endfor %}
