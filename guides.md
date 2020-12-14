@@ -13,6 +13,6 @@ This is work in progress.
 
 {{ guide.description }}
 
-[read more...]({{ guide.url }}) 
+[read more...]({{ site.baseurl }}{{ guide.url }}) 
 
 {% endfor %}

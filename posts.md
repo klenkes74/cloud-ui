@@ -9,7 +9,7 @@ layout: page
 #### {{ post.title }}
 {{ post.description }}
 
-[read more...]({{ post.url }}) 
+[read more...]({{ site.baseurl }}{{ post.url }}) 
 
 {% endfor %}
 
