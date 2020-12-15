@@ -9,3 +9,4 @@ title: "Open Source"
 
 ### Projects
 
+* [Quarkus](https://quarkus.io) - Apache Software Licence 2.0
