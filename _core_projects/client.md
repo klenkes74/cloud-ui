@@ -3,7 +3,11 @@ title: "CloudUi Client"
 layout: page
 ---
 
-## CloudUi Client
+### CloudUi Client
+
+![Build and Deploy](https://github.com/moewes/cloud-ui-client/workflows/Build%20and%20Deploy/badge.svg)
+
+Current version: 0.1.0-SNAPSHOT
 
 This project contains the client components that run in a webbrowser. It contains a web component, that is responsable for loading the view form the server und dispatch events back to it.
 
@@ -13,15 +17,11 @@ Everthing is packaged in a webjar compatible jar-file.
 
 [Github](https://github.com/moewes/cloud-ui-client) 
 
-### Release Notes 
+#### Changelog 
 
-Version: 0.1.0-SNAPSHOT
+##### 0.1.0
 
-- [x] display View in web component 
-- [x] support onClick-event
-- [x] bidirectional data binding
+* display View in web component 
+* support onClick-event
+* bi-directional data binding
 
-### Roadmap
-
-- [ ] support styling
-- [ ] support more event types
