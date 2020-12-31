@@ -7,7 +7,9 @@ layout: page
 
 ![Build and Deploy](https://github.com/moewes/cloud-ui-core/workflows/Build%20and%20Deploy/badge.svg)
 
-Current version: 0.1.0-SNAPSHOT
+Current version: 0.1.0
+
+Development version: 0.2.0-SNAPSHOT
 
 Dom abstraction and runtime independed feature of CloudUi
 
