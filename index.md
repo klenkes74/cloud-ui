@@ -3,7 +3,9 @@ layout: page
 title: "Home"
 ---
 
+### News
 
+First Milestone Release 0.1.0 released!
 
 ### The Idea
 
@@ -30,7 +32,7 @@ This is work in progress. See example.
   <dependency>
     <groupId>net.moewes</groupId>
     <artifactId>cloud-ui-quarkus-extension</artifactId>
-    <version>0.1.0-SNAPSHOT</version>
+    <version>0.1.0</version>
   </dependency>
 ~~~
 
@@ -59,7 +61,7 @@ Open Browser [http://localhost:8080/myview](http://localhost:8080/myview)
 
 ## Documentation
 
-Work in progress. See Example App so far.
+Work in progress. See guides and example apps so far.
 
 
 
