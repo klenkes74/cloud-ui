@@ -17,6 +17,10 @@ CloudUi for Quarkus.
 
 #### Changelog
 
+##### 0.2.0
+
+* Hot Deployment of CloudUi views in development mode
+
 ##### 0.1.0
 
 * VertX-Router

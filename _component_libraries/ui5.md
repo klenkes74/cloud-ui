@@ -27,6 +27,8 @@ Maven:
 
 [Github](https://github.com/moewes/cloud-ui-ui5) 
 
+[Api](https://moewes.github.ui/cloud-ui-ui5/index.html)
+
 ##### Ui5 web components webjar
 
 ![Webjar Build](https://github.com/moewes/ui5-webjar/workflows/Webjar%20Build/badge.svg)
