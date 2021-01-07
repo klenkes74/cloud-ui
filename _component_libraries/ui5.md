@@ -27,7 +27,7 @@ Maven:
 
 [Github](https://github.com/moewes/cloud-ui-ui5) 
 
-[Api](https://moewes.github.ui/cloud-ui-ui5/index.html)
+[Api](https://moewes.github.io/cloud-ui-ui5/index.html)
 
 ##### Ui5 web components webjar
 

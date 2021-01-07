@@ -27,7 +27,7 @@ Maven:
 
 [Github](https://github.com/moewes/cloud-ui-vaadin) 
 
-[Api](https://moewes.github.ui/cloud-ui-vaadin/index.html)
+[Api](https://moewes.github.io/cloud-ui-vaadin/index.html)
 
 ##### Vaadin web components webjar
 
