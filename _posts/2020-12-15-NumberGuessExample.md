@@ -28,7 +28,7 @@ Add the following dependency to your pom.xml file:
     </dependency>
 ~~~
 
-[Setup Development Environment](../../../guides/setupDevEnvironment.html)
+[Setup Development Environment](../../../guides/1_setupDevEnvironment.html)
 
 ### First View
 
