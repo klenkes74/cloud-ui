@@ -21,6 +21,10 @@ Everthing is packaged in a webjar compatible jar-file.
 
 #### Changelog 
 
+##### 0.2.0
+
+* support view with deep url
+
 ##### 0.1.0
 
 * display View in web component 

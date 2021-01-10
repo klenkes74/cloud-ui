@@ -4,6 +4,10 @@ title: "Vaadin, Java and Serverless"
 description: "Does it work? With CloudUi it does!"
 ---
 
+#### Vaadin, Java and  Serverless
+
+##### Does it work? With CloudUi it does!
+
 Modern web uis are nowadays state of the art. A lot of people develop them with several popular javascript libraries, i.e. angular, react or vue just to name a few.
 
 On the other hand many backends are written in java. So some people wish to UI and business logic in one language. There are many advantages and disadvantages of the different approaches that I don't want to discuss in this post.

@@ -43,9 +43,11 @@ Maven:
 ##### Version 0.1.0
 
 * Avatar
+* Button
+* Icon
+* Input
+* Label
 * Link
 * Title
 * Timeline
-* Ui5Label
-* Ui5Input
-* Ui5Button
+
