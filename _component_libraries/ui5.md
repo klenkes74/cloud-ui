@@ -43,7 +43,15 @@ Maven:
 ##### Version 0.1.0
 
 * Avatar
+* Avatar Group
+* Badge
+* Bar
 * Button
+* Calendar
+* Card
+* Carousel
+* Check Box
+* Combo Box
 * Icon
 * Input
 * Label
