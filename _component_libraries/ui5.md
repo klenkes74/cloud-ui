@@ -7,7 +7,9 @@ layout: page
 
 Bundles Ui5 Web Components for use with CloudUi
 
-Current Version: 0.1.0-SNAPSHOT
+Current Version: 0.2.0
+
+Development Version: 0.3.0-SNAPSHOT
 
 Maven:
 ~~~~
@@ -15,7 +17,7 @@ Maven:
 <dependency>
     <groupId>net.moewes</groupId>
     <artifactId>cloud-ui-ui5</artifactId>
-    <version>0.1.0-SNAPSHOT</version>
+    <version>0.2.0</version>
 </dependency>
 ~~~~
 
@@ -40,7 +42,7 @@ Maven:
 
 #### Changelog
 
-##### Version 0.1.0
+##### Version 0.2.0
 
 * Avatar
 * Avatar Group
@@ -52,10 +54,18 @@ Maven:
 * Carousel
 * Check Box
 * Combo Box
+* Date Picker
+* Date Time Picker
+* Date Range Picker
+* Duration Picker
 * Icon
 * Input
 * Label
 * Link
+* List
+* Tabs
+* Text Area
+* Time Picker
 * Title
 * Timeline
-
+* Wizard

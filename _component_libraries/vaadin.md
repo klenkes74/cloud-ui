@@ -7,7 +7,9 @@ layout: page
 
 Bundles Vaadin Web Components for use with CloudUi
 
-Current Version: 0.1.0-SNAPSHOT
+Current Version: 0.2.0
+
+Development Version: 0.3.0-SNAPSHOT
 
 Maven:
 ~~~~
@@ -15,7 +17,7 @@ Maven:
 <dependency>
     <groupId>net.moewes</groupId>
     <artifactId>cloud-ui-vaadin</artifactId>
-    <version>0.1.0-SNAPSHOT</version>
+    <version>0.2.0</version>
 </dependency>
 ~~~~
 
@@ -40,9 +42,18 @@ Maven:
 
 #### Changelog
 
-##### Version 0.1.0
+##### Version 0.2.0
 
 * TextField
+* EmailField
+* IntegerField
+* NumberField
+* PasswordField
+* TextArea
+* Notification
+* Button
+* Details
+* FormLayout
 * VerticalLayout
 * HorizontalLayout
 
