@@ -7,9 +7,9 @@ layout: page
 
 ![Build and Deploy](https://github.com/moewes/cloud-ui-client/workflows/Build%20and%20Deploy/badge.svg)
 
-Current version: 0.1.0
+Current version: 0.2.0
 
-Development version: 0.2.0-SNAPSHOT
+Development version: 0.3.0-SNAPSHOT
 
 This project contains the client components that run in a webbrowser. It contains a web component, that is responsable for loading the view form the server und dispatch events back to it.
 
@@ -24,6 +24,8 @@ Everthing is packaged in a webjar compatible jar-file.
 ##### 0.2.0
 
 * support view with deep url
+* set properties of web components javascript instances
+* better events with parameter mapping
 
 ##### 0.1.0
 
